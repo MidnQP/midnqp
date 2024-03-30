@@ -24,13 +24,13 @@ My published articles:
 
 I am a quick-learner. And the best way **to learn is to build**. As I learn a new programming language or framework or concept, I quickly build something using it. Or I note that down in the README. This reinforces and strengthens what I know.
 
-<br>
+<!--br>
 
 My knowledge repositories:
 - [backend-dev](https://github.com/midnqp/backend-dev) &emsp; My notes on backend design, security, and architecture.
 - [software-dev](https://github.com/midnqp/software-dev) &emsp; Notes.
 - [nodejs](https://github.com/midnqp/nodejs) &emsp; My notes on Node.js and its Event Loop, TypeScript, and ESM vs CJS.
-
+-->
 <!--
 - [c](https://github.com/midnqp/c) &emsp; My notes and projects on the C programming language.
 - [reactjs](https://github.com/midnqp/reactjs) &emsp; My notes on React.js — coming soon.
