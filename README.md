@@ -9,7 +9,6 @@ Endlessly learning and committed to it - taking one step at a time every bright 
 In the world of software engineering, this is too feasible to be intimidated by its wide extent. However, consistency is always the key to legibility.</p>
 
 <br>
-<br>
 
 My published articles:
 - 4 Jan 24 &ensp; [CRLF vs LF in Git](https://dev.to/midnqp/the-fuss-with-crlf-and-lf-in-git-4nnf)
@@ -25,16 +24,18 @@ My published articles:
 
 I am a quick-learner. And the best way **to learn is to build**. As I learn a new programming language or framework or concept, I quickly build something using it. Or I note that down in the README. This reinforces and strengthens what I know.
 
-<!--br>
+<br>
 
 My knowledge repositories:
-- [backend-dev](https://github.com/midnqp/backend-dev) &emsp; My notes on software backend — including API design, security, scalability, and architecture.
-- [software-dev](https://github.com/midnqp/software-dev) &emsp; My notes on software engineering & software design.
+- [backend-dev](https://github.com/midnqp/backend-dev) &emsp; My notes on backend design, security, and architecture.
+- [software-dev](https://github.com/midnqp/software-dev) &emsp; Notes.
+- [nodejs](https://github.com/midnqp/nodejs) &emsp; My notes on Node.js and its Event Loop, TypeScript, and ESM vs CJS.
+
+<!--
+- [c](https://github.com/midnqp/c) &emsp; My notes and projects on the C programming language.
 - [reactjs](https://github.com/midnqp/reactjs) &emsp; My notes on React.js — coming soon.
 - [nestjs](https://github.com/midnqp/nestjs) &emsp; My notes on Nest.js — coming soon.
-- [linux](https://github.com/midnqp/linux) &emsp; My notes on Linux — coming soon.
-- [c](https://github.com/midnqp/c) &emsp; My notes on C.
-- [nodejs](https://github.com/midnqp/nodejs) &emsp; My notes on Node.js — including Event Loop, TypeScript, ESM vs CJS, and design patterns. -->
+- [linux](https://github.com/midnqp/linux) &emsp; My notes on Linux — coming soon. -->
 
 <br>
 
